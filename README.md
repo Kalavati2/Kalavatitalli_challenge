@@ -83,13 +83,11 @@ After successfully sending the request to devrev we get the response like below
 2.After installation of cli Log in to DevRev for authentication with the command<br>
 ```
 devrev profiles authenticate -o kalavatitalli2002 -u kalavatitalli7@gmail.com
-
 '''
-
+<br>
 3.To initialize a Hello world snap-in template, run the following command:
 '''
 devrev snap_in_version init
-
 ```
 <br>
 4.This will create a snap-in template codein that folder
