@@ -78,7 +78,7 @@ After successfully sending the request to devrev we get the response like below
 ```
 
 ## Creating a Snap-in
-#### HelloWorld snap-in 
+### HelloWorld snap-in 
 1. Install the DevRev CLI,Jq and DevRev SDK<br>
 2.After installation of cli Log in to DevRev for authentication with the command<br>
 
@@ -105,4 +105,31 @@ Now based on the fuctions defined in this .yaml, we define the fuctions in the f
    npm install
    
   ```
+
+### Auto-reply Snap-In For Snap-in Challenge
+1. Install the automatic customer reply snap-in from the DevRev marketplace.<br>
+2. Select the dev org to install the snap-in, confirm installation, and click Deploy snap-in.<br>
+3. The automatic customer reply snap-in enables you to automatically reply to visitors in your PLuG widget. You can also send a custom button along with the automated message. You can collect the visitor's email address if it is not already in the system. Depending on the requirement, these functionalities can be enabled or disabled.<br>
+4. Configure the Auto-Replay snap-in after succesful installation for replying .<br>
+5. Toggle the Enable automated reply button to enable automatic customer response.Enter the text you wish to send as an automated reply in the Automated reply field.Like I have configured as "Thank you for contacting us. We will respond as soon as possible. Meanwhile, you can perform the following actions or provide additional information."<br>
+6. Toggle the Set business hours toggle on. This will define your business hours.The text you wish to send as an automated reply should be entered in the "Automated messages after business hours" field.
+Like I have entered "Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry."<br>
+7. Enter the UTC offset, business days, business start and end hours, and business hours in the corresponding fields as input.<br>
+8.To send a button, turn on the Enable a custom button toggle.In the Text displayed on custom button field, enter the text to be displayed on the button. For example, Book a Demo, Meet with Us!, Let's Chat.
+In the Target URL for the custom button field, enter the website you'd like to redirect to, such as Calendly, Hubspot meetings, Microsoft Bookings, or another site.<br>
+9. Turn on the Enable email collector toggle to start gathering unregistered email addresses.Type the text that will appear in the email collector in the placeholder text field.Text to appear on the submit button should be entered in the Email collector submit button text field.
+10. Click the save to unable Auto-reply after office hours.
+11. Below are the Screenshot for demonstration auto-reply to customers, here i sent the nmessage on saturday which is not present in working days of our configuration, so the reply will be Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry and if you click on send text button it redirected to the URL that is mentioned the enter email and submit.
+    ![Screenshot (213)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/0e84d8de-cf57-4fa3-b97b-febc374dff4d)
+![Screenshot (212)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/ecc060b2-c086-4133-a647-1a4a32d43490)
+![Screenshot (214)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/be8fe64f-13ad-44dc-bef9-c4f7b403e04b)
+
+
+
+
+
+
+
+
+
 
