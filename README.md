@@ -85,10 +85,11 @@ After successfully sending the request to devrev we get the response like below
 ```
 devrev profiles authenticate -o kalavatitalli2002 -u kalavatitalli7@gmail.com
 
-'''
+```
 <br>
+
 3.To initialize a Hello world snap-in template, run the following command:
-'''
+```
 devrev snap_in_version init
 
 ```
@@ -99,7 +100,9 @@ Now based on the fuctions defined in this .yaml, we define the fuctions in the f
 6. Here for hello_world snap-in, in the function that we create(or rename the default fn and make necessary changes in related files) in run fn we get all the objects that trigger the event defined in .yaml file. now these events are looped and handleevent() is called.<br>
 7.Now for helloworld snapin we write a console.log("hello world") in this handleevent(), so whenever and event is created "hello world is printed"<br>
 8. Now in the code directory run the following commands
+
    ```
    npm install
+   
   ```
 
