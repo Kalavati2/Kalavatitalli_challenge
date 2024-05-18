@@ -127,7 +127,11 @@ In the Target URL for the custom button field, enter the website you'd like to r
 ![pic31](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/eaf1b3e5-4f32-4411-bdac-081d926c554c)
 <br>
 11. Below are the Screenshot for demonstration auto-reply to customers, here i sent the nmessage on saturday which is not present in working days of our configuration, so the reply will be Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry and if you click on send text button it redirected to the URL that is mentioned the enter email and submit.
-    ![help1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/8faa29c5-b706-4ec7-b5cc-1a53eb976031)
+![help1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/84e24703-bdd9-4b7a-a714-b60e64306cfb)
+![help21](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/d37caa3a-1e0b-446c-bfbe-d38d81f76f36)
+![help31](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/73153d19-ea5e-4d9d-8cf9-ff21794194f5)
+
+
 
 
 
