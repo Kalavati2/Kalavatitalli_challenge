@@ -119,10 +119,17 @@ Like I have entered "Hi, you have reached us after hours. We will respond as soo
 In the Target URL for the custom button field, enter the website you'd like to redirect to, such as Calendly, Hubspot meetings, Microsoft Bookings, or another site.<br>
 9. Turn on the Enable email collector toggle to start gathering unregistered email addresses.Type the text that will appear in the email collector in the placeholder text field.Text to appear on the submit button should be entered in the Email collector submit button text field.
 10. Click the save to unable Auto-reply after office hours.
-11. Below are the Screenshot for demonstration auto-reply to customers, here i sent the nmessage on saturday which is not present in working days of our configuration, so the reply will be Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry and if you click on send text button it redirected to the URL that is mentioned the enter email and submit.
+
+
+11. Screenshots of configuring the Auto-reply Components.
 ![pic11](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/52272413-a181-4ed9-abbd-480e3fa7ec81)
 ![pic21](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/9e88521c-80e4-429b-9feb-f978ae961c93)
 ![pic31](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/eaf1b3e5-4f32-4411-bdac-081d926c554c)
+<br>
+11. Below are the Screenshot for demonstration auto-reply to customers, here i sent the nmessage on saturday which is not present in working days of our configuration, so the reply will be Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry and if you click on send text button it redirected to the URL that is mentioned the enter email and submit.
+    ![help1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/8faa29c5-b706-4ec7-b5cc-1a53eb976031)
+
+
 
 
 
