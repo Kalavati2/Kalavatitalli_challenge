@@ -1,7 +1,7 @@
 # Kalavatitalli_challenge
 ## Utilizing the DevRev API
-I have utilised DevRev API POST- https://api.devrev.ai/works.create  to create the work item of Type issue with Title Conquer the world, one API at a time! that is applied to the part named PROD-1 owned by DEVU-1 that is the display name of devrev account that i logged in.
-code Snippet 
+I have utilised DevRev API POST- https://api.devrev.ai/works.create  to create the work item of Type issue with Title Conquer the world, one API at a time! that is applied to the part named PROD-1 owned by DEVU-1 that is the display name of devrev account that i logged in.<br>
+The code Snippet demonstrating creation of work item 
 ```
 curl --location 'https://api.devrev.ai/works.create' \
 --header 'Content-Type: application/json' \
