@@ -20,3 +20,59 @@ curl --location 'https://api.devrev.ai/works.create' \
 
 we need to choose the authorisation of type API key with key as autherisation and value as the personal access token(PAT) provided in DevRev appliccation. 
 ![Screenshot (211)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/db38cfff-622d-42b9-afe5-9a836afbba10)
+
+After successfully sending the request to devrev we get the response like below
+```
+{
+    "work": {
+        "type": "issue",
+        "applies_to_part": {
+            "type": "product",
+            "display_id": "PROD-1",
+            "id": "don:core:dvrv-us-1:devo/1W0SpLepJJ:product/1",
+            "name": "Default Product 1"
+        },
+        "created_by": {
+            "type": "dev_user",
+            "display_id": "DEVU-1",
+            "display_name": "kalavatitalli7",
+            "email": "kalavatitalli7@gmail.com",
+            "full_name": "kalavati Talli",
+            "id": "don:identity:dvrv-us-1:devo/1W0SpLepJJ:devu/1",
+            "state": "active"
+        },
+        "created_date": "2024-05-18T06:49:47.816Z",
+        "custom_fields": null,
+        "display_id": "ISS-14",
+        "id": "don:core:dvrv-us-1:devo/1W0SpLepJJ:issue/14",
+        "modified_by": {
+            "type": "dev_user",
+            "display_id": "DEVU-1",
+            "display_name": "kalavatitalli7",
+            "email": "kalavatitalli7@gmail.com",
+            "full_name": "kalavati Talli",
+            "id": "don:identity:dvrv-us-1:devo/1W0SpLepJJ:devu/1",
+            "state": "active"
+        },
+        "modified_date": "2024-05-18T06:49:47.816Z",
+        "owned_by": [
+            {
+                "type": "dev_user",
+                "display_id": "DEVU-1",
+                "display_name": "kalavatitalli7",
+                "email": "kalavatitalli7@gmail.com",
+                "full_name": "kalavati Talli",
+                "id": "don:identity:dvrv-us-1:devo/1W0SpLepJJ:devu/1",
+                "state": "active"
+            }
+        ],
+        "priority": "p2",
+        "stage": {
+            "name": "triage"
+        },
+        "stock_schema_fragment": "don:core:dvrv-us-1:stock_sf/224582",
+        "title": "Conquer the world, one API at a time!"
+    }
+}
+
+```
