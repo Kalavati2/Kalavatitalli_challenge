@@ -133,7 +133,7 @@ In the Target URL for the custom button field, enter the website you'd like to r
 ![pic21](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/9e88521c-80e4-429b-9feb-f978ae961c93)
 ![pic31](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/eaf1b3e5-4f32-4411-bdac-081d926c554c)
 <br>
-11. Below are the Screenshot for demonstration auto-reply to customers, here i sent the message in plug wedget on saturday which is not present in working days of our configuration, so the reply will be Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry and if you click on send text button it redirected to the URL that is mentioned the enter email and submit.
+11. Below are the Screenshot for demonstration auto-reply in plug wedget played in background, here i sent the message in plug wedget on saturday which is not present in working days of our configuration, so the reply will be Hi, you have reached us after hours. We will respond as soon as possible. While you wait, please add any additional information that may help us with your inquiry and if you click on send text button it redirected to the URL that is mentioned the enter email and submit.
 
 ![help1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/386fb2aa-8cac-4a65-b08e-5b1d7ab3291b)
 
@@ -141,5 +141,15 @@ In the Target URL for the custom button field, enter the website you'd like to r
 
 
 ![help31](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/a3df843a-6cad-4dc8-8dca-488264b6b680)
+
+12. I have created the plug wedget in my website, where the customer sent the message on sunday which is not the working day hence the autoreply is produced to the customers saying that, Hi, you have reached us after office hours. We will respond as soon as possible.I have changed the input for replying from previous example .Here are the screenshots.
+    ![Screenshot (224)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/2e723f59-0293-4bc4-b1ab-de742ab29dca)
+    ![Screenshot (225)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/d64091f6-aec4-476e-8fc8-c1ede89653ea)
+![Screenshot (227)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/777dec98-3256-48e0-ad2c-a0abd42ff073)
+    ![Screenshot (226)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/f1ad6c40-4030-49a8-8201-4c2a7931abfd)
+
+
+
+
 
 
