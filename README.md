@@ -19,9 +19,9 @@ curl --location 'https://api.devrev.ai/works.create' \
 ```
 
 we need to choose the authorisation of type API key with key as autherisation and value as the personal access token(PAT) provided in DevRev appliccation. 
-![cmd1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/5caa5aa6-e540-447c-a2d8-d72a6613e013)
 
-![Screenshot (207)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/d67b4904-5701-4ba9-99f5-368dec53ba04)
+![Screenshot (211)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/3a52ae4b-5e29-4825-a096-b477657c9727)
+
 After successfully sending the request to devrev we get the response like below
 ```
 {
