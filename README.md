@@ -143,10 +143,12 @@ In the Target URL for the custom button field, enter the website you'd like to r
 ![help31](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/a3df843a-6cad-4dc8-8dca-488264b6b680)
 
 12. I have created the plug wedget in my website, where the customer sent the message on sunday which is not the working day hence the autoreply is produced to the customers saying that, Hi, you have reached us after office hours. We will respond as soon as possible.I have changed the input for replying from previous example .Here are the screenshots.
-    ![Screenshot (224)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/2e723f59-0293-4bc4-b1ab-de742ab29dca)
-    ![Screenshot (225)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/d64091f6-aec4-476e-8fc8-c1ede89653ea)
-![Screenshot (227)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/777dec98-3256-48e0-ad2c-a0abd42ff073)
-    ![Screenshot (226)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/f1ad6c40-4030-49a8-8201-4c2a7931abfd)
+    ![Screenshot (228)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/df51d3d1-4402-45b9-966a-7c5c3d5c3fff)
+![Screenshot (225)1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/52789d9c-f002-4876-9886-db408a080b77)
+
+    ![Screenshot (229)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/06334d00-7994-49fe-8a43-79806a70108c)
+
+![Screenshot (230)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/bffc38e9-3dd8-4047-8c92-2705468d2df2)
 
 
 
