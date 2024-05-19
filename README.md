@@ -105,11 +105,13 @@ Now based on the fuctions defined in this .yaml, we define the fuctions in the f
 
    ```
    npm install
+
    
   ```
-Screenshots of commands in DevRev Cli and its results
-![Screenshot (208)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/9ca2dded-7d56-4731-ae23-c60af6787d1d)
 
+Screenshots of commands in DevRev Cli and its results
+![cmd1](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/d3544e1a-b165-4dea-bb8c-c659e631b7a1)
+![Screenshot (207)](https://github.com/Kalavati2/Kalavatitalli_challenge/assets/117050494/3822ff8e-9fe9-4f98-b2d5-83ab7b74928e)
 
 ### Auto-reply Snap-In For Snap-in Challenge
 1. Install the automatic customer reply snap-in from the DevRev marketplace.<br>
